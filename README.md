@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arathi</h1>
 <h3 align="center">A Junior python Backend developer (1+yrs experienced) from Kerala, India</h3>
 
-- 🔭 I’m currently working on **SA-service**
+- 🔭 I’m currently working at **Simplify Agri Pvt Ltd**
 
 - 🌱 I’m currently learning **AI,ML**
 
